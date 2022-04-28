@@ -1,5 +1,4 @@
-﻿Imports MySql.Data.MySqlClient
-Public Class Scripts
+﻿Public Class Scripts
     Public Function CheckPassword(pwd As String) As Integer
         Dim i As Integer
         Dim pUpper As Integer = 0

@@ -1,5 +1,5 @@
-﻿Imports MySql.Data.MySqlClient
-Imports System.IO
+﻿Imports System.IO
+Imports MySql.Data.MySqlClient
 Public Class UpdateProfile
     Dim MysqlConn As MySqlConnection
     Dim MySqlComm As MySqlCommand
