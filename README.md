@@ -26,3 +26,8 @@ Attend+ is a basic attendance management system for colleges which allows to sto
   <img align="center" alt="Preview-012" src="Previews/012.png"/>
   <p align="center"> About Us </p>
 </p>
+
+<p align="center">
+  <img align="center" alt="Preview-012" src="Previews/012.png"/>
+  <p align="center"> About Us </p>
+</p>
