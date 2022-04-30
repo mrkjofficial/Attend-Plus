@@ -131,3 +131,14 @@ C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\Attend+.exe.config
 C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\Attend+.exe
 C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\Attend+.pdb
 C:\Users\Karan\Source\repos\mrkjofficial\Attend\obj\Debug\Attend+.vbproj.CopyComplete
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\obj\Debug\Attend+.exe.config
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\MySql.Data.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\Google.Protobuf.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\ZstdNet.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\System.Memory.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\System.Buffers.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Karan\Source\repos\mrkjofficial\Attend\bin\Debug\K4os.Hash.xxHash.dll

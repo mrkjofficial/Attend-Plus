@@ -30,7 +30,7 @@ Public Class Login
         End If
     End Sub
     Private Sub ConnectionTimer_Tick(sender As Object, e As EventArgs) Handles ConnectionTimer.Tick
-        MysqlConn = New MySqlConnection With {.ConnectionString = "server = localhost; userid = karan; password = 9832011896; database = ams;"}
+        MysqlConn = New MySqlConnection With {.ConnectionString = "server = localhost; userid = root; password = root; database = ams;"}
         Try
             MysqlConn.Open()
             ConnectionStatusLabel.Text = "Connected!"
